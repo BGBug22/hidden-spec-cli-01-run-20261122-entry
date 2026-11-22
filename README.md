@@ -1,6 +1,10 @@
 # mend — one patch tool for every AI edit format
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![make.fun](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/c/hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/BGBug22/hidden-spec-cli-01-run-20261122-entry/rank.svg)](https://make.fun/c/hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/BGBug22/hidden-spec-cli-01-run-20261122-entry/reward.svg)](https://make.fun/c/hidden-spec-cli-01-run-20261122)
+
+Built for the make.fun bounty: https://make.fun/c/hidden-spec-cli-01-run-20261122
 
 `mend` applies an edit that an AI model wrote to a tree of text files. Models write edits in
 four formats — a unified diff (often with wrong line numbers), SEARCH/REPLACE blocks, the V4A
